@@ -12,6 +12,14 @@ served an empty `<body>`, so crawlers saw nothing at all. The replacement is 22
 statically generated pages in Korean and English with the same design, except the
 content now lives in the HTML.
 
+### Open repositories
+
+| | |
+|---|---|
+| [**korvera-next**](https://github.com/gaspiralli97/korvera-next) | K-beauty marketplace frontend. Skin-type matching, beauty quiz, seller storefronts, real-time chat. Next.js, Apollo, three locales. |
+| [**baginy**](https://github.com/gaspiralli97/baginy) | Luggage store API. Express and MongoDB, JWT for the API and sessions for the admin panel, Socket.IO chat. |
+| [**baginy-react**](https://github.com/gaspiralli97/baginy-react) | The storefront that talks to it. React, Redux Toolkit, Material UI. |
+
 ### Elsewhere
 
 A job-application agent of mine runs on an ARM box in Oracle Cloud. It reads two
@@ -30,4 +38,4 @@ Docker, Oracle Cloud, Vercel, nginx, pm2
 Bachelor's from the University of Ulsan. AI agents and LLM integration in Estonia,
 backend and DevOps in Russia, frontend in Uzbekistan, now Korea.
 
-Most of what I write is client work, so it sits in private repositories.
+Client work stays in private repositories, so this is a slice rather than the whole.
