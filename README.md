@@ -1,34 +1,33 @@
 ## Ismoil Dusmuratov
 
-Full-stack and AI engineer based in Seoul, South Korea.
-I build production web platforms — Next.js on the front, NestJS and Python on the back.
+Full-stack developer in Seoul. Next.js and NestJS mostly, TypeScript throughout.
 
-**Currently** — Development lead at HanSquare, building **GrowJam**: an AI student-growth
-platform around SGII, an eight-dimension assessment framework that turns a diagnosis into
-real-world activities for the student to actually do.
+I lead development at HanSquare. Right now that means GrowJam, a student growth
+platform built on SGII: 160 questions in, a scored profile across eight areas out,
+and from that a list of activities the student can actually go and do. Patent
+application filed on the matching system, 10-2026-0159625.
 
-### What I work with
+Before GrowJam I rebuilt the company site. The old one was client-rendered and
+served an empty `<body>`, so crawlers saw nothing at all. The replacement is 22
+statically generated pages in Korean and English with the same design, except the
+content now lives in the HTML.
 
-**Frontend** Next.js · React · TypeScript · Tailwind · React Native (Expo)
-**Backend** NestJS · Node.js · Python · GraphQL · REST
-**Data** MongoDB · PostgreSQL · Redis
-**Infra** Docker · Oracle Cloud · Vercel · GitHub Actions · nginx
+### Elsewhere
 
-### Things I have built
+A job-application agent of mine runs on an ARM box in Oracle Cloud. It reads two
+Korean job boards, scores postings against a profile, applies, and sends a Telegram
+digest. Login automation was the awkward part. Saramin only offers Google OAuth and
+Google refuses a headless browser, so that one needed a real Chrome profile.
 
-| | |
-|---|---|
-| **HanSquare** | Corporate site rebuilt from a client-rendered SPA into a statically generated, bilingual (ko/en) Next.js app — the original shipped an empty `<body>` to crawlers |
-| **GrowJam** | Student growth platform — SGII assessment, personalised activity recommendations, photo verification, collectible rewards |
-| **Korvera** | K-beauty commerce platform |
-| **Nestar / Baginy / Burak** | Full-stack marketplace and ordering platforms — NestJS, GraphQL, MongoDB |
-| **jobcatch** | Automated job-application agent running on an ARM server — scoring, inbox classification, Telegram digests |
+### Stack
+
+TypeScript, Next.js, NestJS, React Native (Expo), Python
+MongoDB, PostgreSQL, Redis
+Docker, Oracle Cloud, Vercel, nginx, pm2
 
 ### Background
 
-Bachelor's from the University of Ulsan. Before Korea I worked across three countries —
-AI agent and LLM development in Estonia, backend and DevOps in Russia, frontend in Uzbekistan.
+Bachelor's from the University of Ulsan. AI agents and LLM integration in Estonia,
+backend and DevOps in Russia, frontend in Uzbekistan, now Korea.
 
----
-
-Most of my work lives in private client repositories, so this profile shows only part of it.
+Most of what I write is client work, so it sits in private repositories.
