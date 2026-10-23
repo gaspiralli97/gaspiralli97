@@ -17,8 +17,8 @@ content now lives in the HTML.
 | | |
 |---|---|
 | [**korvera-next**](https://github.com/gaspiralli97/korvera-next) · [korvera.kr](https://korvera.kr) | K-beauty marketplace frontend. Skin-type matching, beauty quiz, seller storefronts, real-time chat. Next.js, Apollo, three locales. |
-| [**baginy**](https://github.com/gaspiralli97/baginy) · [baginy.kr](https://baginy.kr) | Luggage store API. Express and MongoDB, JWT for the API and sessions for the admin panel, Socket.IO chat. |
-| [**baginy-react**](https://github.com/gaspiralli97/baginy-react) | The storefront that talks to it. React, Redux Toolkit, Material UI. |
+| [**baginy**](https://github.com/gaspiralli97/baginy) · [baginy.kr](https://baginy.kr) | Baginy — luggage store API. Express and MongoDB, JWT for the API and sessions for the admin panel, Socket.IO chat. |
+| [**baginy-react**](https://github.com/gaspiralli97/baginy-react) | The storefront that talks to it. React, Redux Toolkit, Material UI, light and dark themes. |
 
 ### Elsewhere
 
