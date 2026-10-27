@@ -1,5 +1,7 @@
 ## Ismoil Dusmuratov
 
+[ismoil-portfolio.vercel.app](https://ismoil-portfolio.vercel.app) · [CV](https://ismoil-portfolio.vercel.app/ismoil-cv-en.pdf) · dusmuratovismoil@gmail.com
+
 Full-stack developer in Seoul. Next.js and NestJS mostly, TypeScript throughout.
 
 I lead development at HanSquare. Right now that means GrowJam, a student growth
